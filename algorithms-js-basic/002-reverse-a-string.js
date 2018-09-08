@@ -52,7 +52,7 @@ console.log(reverseStr3('Hello 3'));
 console.log('--------------------------------------');
 
 
-// 4tg Solution
+// 4th Solution
 const reverseStr4 = ( str ) => {
     return str.split('').reverse('').join('');
 };
